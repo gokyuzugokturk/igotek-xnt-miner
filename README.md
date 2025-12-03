@@ -19,7 +19,6 @@ HIVEOS: FLIGHT SHEET
 *****
 
 HIVEOS: FLIGHT SHEET  
-https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/003.png
 ![flighsheet](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/003.png)
 
 Wallet and worker template: %WAL%  
