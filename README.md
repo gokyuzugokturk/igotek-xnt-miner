@@ -1,3 +1,53 @@
-Neptune Privacy
+XNT Neptune Privacy Miner v1.0 for HIVEOS
 
-XNT GPU Mining at Poolhub.io
+All NVIDIA graphic cards are supported !
+
+*****
+
+HIVEOS: WALLET CREATION  
+image 001
+
+Get wallet address from https://safetrade.com
+Set wallet address at the flight sheet !
+
+*****
+
+HIVEOS: FLIGHT SHEET  
+image 002
+
+*****
+
+HIVEOS: FLIGHT SHEET  
+image 003
+
+Wallet and worker template: %WAL%  
+
+Installation URL: https://github.com/gokyuzugokturk/igotek-xnt/releases/download/v1.0/xnt-1.0.tar.gz  
+
+Pool URL: stratum+ssl://eu.poolhub.io:30111
+
+Extra config arguments: --neptunewallet YOUR-WALLET-ADDRESS
+
+This miner is for Neptune Privacy XTN !  
+Use XTN wallet address. Neptune Privacy (XTN) 
+
+This miner is not for Neptune Cash NPT !  
+Dont use NPT wallet address. Neptune Cash (NPT)  
+
+*****
+
+Dev + Pool Fee: %5
+
+*****
+
+GPU Selection at the extra config: --gpu 0,1,2,3,4,5
+
+*****
+
+I m not the owner of the poolhub.io
+I m not the developer of OXZD-0.7.5
+All fees goes to its developer !
+You can set idle-time for your own choice !
+
+*****
+
