@@ -47,6 +47,8 @@ RTX3090
 RTX3080Ti  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
+You can set overclock settings depends on your graphic card.
+
 *****
 
 Dev + Pool Fee: %5
