@@ -47,6 +47,9 @@ RTX3090
 RTX3080Ti  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
+RTX3080 
+![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/006.png)
+
 You can set overclock settings depends on your graphic card.
 
 *****
