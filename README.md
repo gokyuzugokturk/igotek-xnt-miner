@@ -60,7 +60,7 @@ RTX4090: 31MH/s @ 450PL, 15.2MH/s @ 400PL, 14.8MH/s @ 370PL, 12MH/s @ 350PL
 
 *****
 
-Dev + Pool Fee: %5
+Dev + Pool Fee: %10
 
 *****
 
