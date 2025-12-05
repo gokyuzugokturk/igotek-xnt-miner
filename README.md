@@ -41,8 +41,12 @@ Dont use NPT wallet address. Neptune Cash (NPT)
 
 BENCHMARKS
 
+You can set overclock settings depends on your graphic card.   
+Just try this ones as start and find the proper settings for your graphic cards.
+
 RTX5090: 40MH/s NO OC, NO PL LIMIT  
-RTX4090: 31MH/s NO OC, NO PL LIMIT
+RTX4090: 31MH/s NO OC, NO PL LIMIT   
+RTX4090: 31MH/s @ 450PL NO OC, 15.2MH/s @ 400PL NO OC, 14.8MH/s @ 370PL NO OC, 12MH/s @ 350PL NO OC
 
 RTX3090 > 13.85MH/s @ 300W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
@@ -56,10 +60,9 @@ RTX3080 > 10.30MH/s @ 235W
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/006.png)
 
-You can set overclock settings depends on your graphic card.
-
-User Reports  
-RTX4090: 31MH/s @ 450PL NO OC, 15.2MH/s @ 400PL NO OC, 14.8MH/s @ 370PL NO OC, 12MH/s @ 350PL NO OC
+RTX3060Ti > 5.80MH/s @ 115W  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
+![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/008.png)
 
 *****
 
