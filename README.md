@@ -44,20 +44,16 @@ BENCHMARKS
 RTX5090: 40MH/s  
 RTX4090: 31MH/s
 
-RTX3090  
+RTX3090 > 14.10MH/s @ 270W  
 Core Offset 200  
 Core Clock 1740  
-Lock Memory Clock 5000  
-This is for minimum power consumption (270W) & the highest hashrate (14.10MH/s).  
-You can try and find the optimal overclock settings for your graphic cards.
+Lock Memory Clock 810  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
 RTX3080Ti  
-Core Offset 200  
+Core Offset 200 > 13.75MH/s @ 260W
 Core Clock 1740  
-Lock Memory Clock 5000  
-This is for minimum power consumption (260W) & the highest hashrate (13.75MH/s).    
-You can try and find the optimal overclock settings for your graphic cards.  
+Lock Memory Clock 810  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
 RTX3080 
