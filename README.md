@@ -48,7 +48,7 @@ RTX3090 > 14.10MH/s @ 270W
 Core Offset 200, Core Clock 1740, Lock Memory Clock 5000  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
-RTX3080Ti > 13.75MH/s @ 225W  
+RTX3080Ti > 13.75MH/s @ 270W  
 Core Offset 200, Core Clock 1740, Lock Memory Clock 5000  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
