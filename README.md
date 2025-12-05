@@ -60,6 +60,10 @@ RTX3080 > 10.30MH/s @ 235W
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/006.png)
 
+RTX3070 > 7.05MH/s @ 125W  
+Core Offset 200, Core Clock 1710, Lock Memory Clock 5000  
+![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/007.png)
+
 RTX3060Ti > 5.80MH/s @ 115W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/008.png)
