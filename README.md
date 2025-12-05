@@ -48,6 +48,11 @@ RTX3090
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
 RTX3080Ti  
+Core Offset 200  
+Core Clock 1740  
+Lock Memory Clock 5000  
+This is for minimum power consumption & the highest hashrate.    
+You can try and find the optimal overclock settings for your graphic cards.  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
 RTX3080 
