@@ -95,7 +95,7 @@ GPU Selection at the extra config: --gpu 0,1,2,3,4,5
 
 *****
 
-I m not the owner of the poolhub.io + I m not the developer of OXZD-0.7.5 + All fees goes to its developer ! The idle-time is mine hands. But you can set idle-time for your own choice ! You can edit the files, no restrictions. Just dont use the miner if you dont like it. Use it your own risk.
+I m not the owner of the poolhub.io + I m not the developer of OXZD-0.7.5 + All fees goes to its developer ! The idle-time is on my hands. But you can set idle-time for your own choice ! You can edit the files, no restrictions. Just dont use the miner if you dont like it. Use it your own risk.
 
 *****
 
