@@ -85,6 +85,9 @@ Example: set 1695 instead of 1710
 Example: set 1680 instead of 1695
 ![error](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/error.png)
 
+Sometimes, you can see your rig uses too lower power than usual, but the hashrates are good. that is an error.
+You must lower Lock Core Clock to lower and reboot the rig to fix that error.
+
 *****
 
 Dev + Pool Fee: %10
