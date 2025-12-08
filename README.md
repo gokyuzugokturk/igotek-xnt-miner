@@ -93,7 +93,7 @@ You must lower Lock Core Clock to lower and reboot the rig to fix that error.
 
 *****
 
-Dev + Pool Fee: %10
+Dev + Pool Fee: %10  
 Auto Pool Payout: 50 XNT
 
 *****
