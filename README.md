@@ -113,6 +113,10 @@ NVIDIA OC failed
 SET POWER LIMIT: 115.0 W [Not Supported]  
 You can see this error if you use Laptop GPUs. No problem, you can set overclocks except PL. Just dismiss the error.
 
+Intel(R) Celeron(R) CPU G1610 is so weak to mine XNT
+Anyway, you can mine XNT but you can see cpu stops confirming shares sometimes.
+Just dont plug too many GPU if you use this type weak CPU.
+
 *****
 
 Dev + Pool Fee: %10  
