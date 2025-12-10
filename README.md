@@ -88,11 +88,11 @@ Core Offset 200, Core Clock 2600, Lock Memory Clock 5000
 
 RTX3070 Laptop > 6.10MH/s @ 85W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
-![RTX3070-Laptop](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3070-Laptop.webp)
+![RTX3070-Laptop](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3070-Laptop.png)
 
-RTX3080 LAptop > 7.35MH/s @ 100W  
+RTX3080 Laptop > 7.35MH/s @ 100W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
-![RTX3080-Laptop](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3080-Laptop.webp)
+![RTX3080-Laptop](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3080-Laptop.png)
 
 *****
 
